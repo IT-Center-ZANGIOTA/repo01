@@ -1,12 +1,16 @@
 ## Welcome to GitHub Pages
+## GitHub sahifalariga xush kelibsiz
 
 You can use the [editor on GitHub](https://github.com/IT-Center-ZANGIOTA/repo01/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Markdown fayllarida veb-saytingiz tarkibini saqlash va oldindan ko'rish uchun [GitHub-dagi tahrirlovchidan](https://github.com/IT-Center-ZANGIOTA/repo01/edit/main/README.md) foydalanishingiz mumkin.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Har safar ushbu ombor(repozitoriy)ga kirganingizda, GitHub sahifalari Markdown fayllaringiz tarkibidan saytingizdagi sahifalarni qayta tiklash uchun [Jekyll](https://jekyllrb.com/) ishga tushadi.
 
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Markdown - bu sizning yozishingizni uslublash uchun engil va ishlatish uchun qulay sintaksis. U konventsiyalarni o'z ichiga oladi
 
 ```markdown
 Syntax highlighted code block
